@@ -1,2 +1,6 @@
 # pca-example
 Tarea evaluable de la asignatura de estadística multivariante donde se pide PCA (Principal Component Analysis)
+
+En este ejercicio práctico se pretende que el alumno emita un informe relacionado con la reduccio ́n de la dimensioón mediante un análisis de componentes principales para alguno de los problemas planteados. Este informe incluye:
+* Un análisis exploratorio previo de los datos, un estudio descriptivo básico de cada variable para tener una visió de sus escalas y variabilidades; hay que tomar decisiones para el tratamiento de los posibles datos perdidos así como de los posibles valores extremos que aparezcan en algunas de las variables. En este anaálisis exploratorio, justificar que los datos están correlados, tanto a nivel de muestra como a nivel poblacional con el test de Bartlett.
+* El resultado obtenido para la reducción de la dimensión. Este apartado también puede incluir distintos subapartados que indiquen cuál es el número mínimo de componentes principales, así como su varianza explicada, que ilustren los pesos de cada variable en las componentes principales seleccionadas. Finalmente realizar e interpretar los distintos gráficos de correlaciones y biplot que incluyan las direcciones dos a dos o tres a tres, así como las observaciones con su aportación a la varianza explicada.
